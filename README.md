@@ -1,2 +1,2 @@
 # gitrepos
-This is a git session
+This is a git session.
